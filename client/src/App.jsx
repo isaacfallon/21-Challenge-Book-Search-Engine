@@ -1,3 +1,4 @@
+import './App.css';
 import { ApolloClient, InMemoryCache, ApolloProvider } from '@apollo/client';
 
 import { Outlet } from 'react-router-dom';
